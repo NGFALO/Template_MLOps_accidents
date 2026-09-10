@@ -1,0 +1,329 @@
+[33mcommit f4b7dbb5d2587b867c060061fd12ecf70114f140[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32maccidents_v2[m[33m, [m[1;31morigin/accidents_v2[m[33m)[m
+Author: NGFALO <falo-974@hotmail.fr>
+Date:   Thu Sep 10 17:22:17 2026 +0400
+
+    Dropped columns
+
+[33mcommit 00705b4eda02b06a712356f8f9a5b5c1eb2fcc30[m
+Author: NGFALO <falo-974@hotmail.fr>
+Date:   Thu Sep 10 17:19:05 2026 +0400
+
+    Modified target variable
+
+[33mcommit e02979669c93a7a89c1a3154f770e23845a738a6[m[33m ([m[1;33mtag: [m[1;33mfirst_preprocess[m[33m)[m
+Author: NGFALO <falo-974@hotmail.fr>
+Date:   Thu Sep 10 17:09:09 2026 +0400
+
+    First preprocessing of the data
+
+[33mcommit 7bc68a334732b86e7d79da1258a60272cbb91c45[m
+Author: NGFALO <falo-974@hotmail.fr>
+Date:   Thu Sep 10 16:53:15 2026 +0400
+
+    First commit with setup and DVC files
+
+[33mcommit b398edbf5de75bc3e5f412845ee35e0b811fffba[m
+Author: Maria José Domenzain <47764531+mjdocevedo@users.noreply.github.com>
+Date:   Mon May 27 10:59:10 2024 +0200
+
+    Update .gitignore
+
+[33mcommit 6873287fe02414c52496c761cb6325ad3e9bae45[m
+Author: Ubuntu <ubuntu@ip-172-31-28-92.eu-west-1.compute.internal>
+Date:   Tue May 21 13:16:52 2024 +0000
+
+    Fix bug on script make_dataset
+
+[33mcommit 4a69e79a7703cf5aac4d156119e4cc6af90d8bd6[m
+Author: Ubuntu <ubuntu@ip-172-31-28-92.eu-west-1.compute.internal>
+Date:   Fri May 17 10:10:11 2024 +0000
+
+    Uncommented .gitignore
+
+[33mcommit 666a2702dcb9cf405d422e7f2d58f00ba5427001[m
+Author: Ubuntu <ubuntu@ip-172-31-28-92.eu-west-1.compute.internal>
+Date:   Fri May 17 09:30:31 2024 +0000
+
+    Added folder to track metrics of the model
+
+[33mcommit d2d65578d7718418fe6010bab087e92575e73daa[m
+Author: Ubuntu <ubuntu@ip-172-31-28-92.eu-west-1.compute.internal>
+Date:   Fri May 17 09:27:41 2024 +0000
+
+    Added evaluate script for checking accuracy of the model
+
+[33mcommit 0f7def3ec1c67adc7e94c7e8469c55163d43f287[m
+Author: MJ Domenzain <47764531+mjdocevedo@users.noreply.github.com>
+Date:   Wed May 8 15:16:21 2024 +0200
+
+    Branche to clone for the course DVC, contains modifications on .gitignore and different structure on make_dataset.py
+
+[33mcommit 5aad06f5e7506e6afeccfb36cc1e290f4c0bc1b2[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Fri Aug 25 14:02:11 2023 +0200
+
+    update read_me
+
+[33mcommit c4f8f917f81c73e2e4471c96b65e197a2e968a35[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Fri Aug 25 12:47:52 2023 +0200
+
+    update readme
+
+[33mcommit 93de8753e3f3a6eebb77e4e4e6e51eac22286827[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Fri Aug 25 12:46:50 2023 +0200
+
+    update readme structure
+
+[33mcommit cbe76018c10dede7ec2bae9544ea702f44cb01e1[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Fri Aug 25 12:45:58 2023 +0200
+
+    update readme structure
+
+[33mcommit bff9120dd05808c6d56d24fd457d23c3891e8a41[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Fri Aug 25 12:43:13 2023 +0200
+
+    update read_me
+
+[33mcommit efb344dae88e7b28e8b34a5fac36610c17051ee0[m
+Author: Alban Thuet <albanthuet@gmail.com>
+Date:   Fri Aug 25 11:47:05 2023 +0200
+
+    Add comments
+
+[33mcommit c8bef2bbf2569213deb0ec2185f2813c5912daaa[m
+Author: Alban Thuet <albanthuet@gmail.com>
+Date:   Fri Aug 25 11:46:50 2023 +0200
+
+    Fiw bug with creating folders
+
+[33mcommit b7b20d1d03abab7ce378ac1165447f96bbd2c505[m
+Author: Alban Thuet <albanthuet@gmail.com>
+Date:   Fri Aug 25 11:46:31 2023 +0200
+
+    Fix wrong comment
+
+[33mcommit 7326794a1d342a975879e251e1a3959cd1c96020[m
+Author: Alban Thuet <albanthuet@gmail.com>
+Date:   Fri Aug 25 11:46:12 2023 +0200
+
+    Update readme with command lines
+
+[33mcommit d4892b442c2fc09d4c1c59c3a8a529ad519e20c1[m
+Author: Alban Thuet <albanthuet@gmail.com>
+Date:   Fri Aug 25 10:49:33 2023 +0200
+
+    Try to fix environment issues
+
+[33mcommit 57cefd5b1fd7800bbe80540b38926cf41f773a56[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Wed Aug 23 13:59:19 2023 +0200
+
+    added sys to requirements
+
+[33mcommit d09e329a837075d9722c7b2783f99dec0f2cdb9b[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Wed Aug 23 13:58:43 2023 +0200
+
+    cleaned notebook
+
+[33mcommit bebe99151c31a8661e971b86b470b0b43af4bca5[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Wed Aug 23 13:58:06 2023 +0200
+
+    Added steps to follow to ReadMe
+
+[33mcommit 0e916b27d083adff8f9517675fce2730d3328e44[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Wed Aug 23 13:33:25 2023 +0200
+
+    added a test json file
+
+[33mcommit 05f2f63539da872385c35c846cd6b0f561af4a44[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Wed Aug 23 13:32:53 2023 +0200
+
+    Corrected format error of y_test/train
+
+[33mcommit aa0fd0961fe7c6ae9d2f142f2bcd1de1c98cfe90[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Wed Aug 23 13:31:42 2023 +0200
+
+    included json file option in argument
+
+[33mcommit dcd0283a4ce07956623476ccf5ac3bbc93a2059d[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Wed Aug 23 13:30:52 2023 +0200
+
+    changed the path to import data
+
+[33mcommit 16a1b7b1079c14a5736baacc316a9d42a3d32243[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Wed Aug 23 13:30:03 2023 +0200
+
+    add venv to gitignore
+
+[33mcommit 3be9fd601e88a3a34eaef05f3a15eb700abab3fa[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Wed Aug 23 13:29:17 2023 +0200
+
+    delete myenviron
+
+[33mcommit 73d5a5cf7f16a005d96c6654cac9bec3c5a583f1[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Wed Aug 23 12:12:53 2023 +0200
+
+    Cleaning notebook
+
+[33mcommit bad42e6e3eeec277b988359e7b7c08d62896bf1b[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Wed Aug 23 11:09:13 2023 +0200
+
+    remove feature an because already have year_acc
+
+[33mcommit eb2c350f18bd60212e5124f8d5fd368b88130119[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Mon Aug 21 15:39:58 2023 +0200
+
+    add ./
+
+[33mcommit 161a085d43e23244d7b5b20a31691a2d7c1f3534[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Mon Aug 21 15:23:46 2023 +0200
+
+    delete dotenv from requirements
+
+[33mcommit 8969aca2c65ea6eccfbeb11d84dadf9eed598b48[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Mon Aug 21 15:22:45 2023 +0200
+
+    delete dotenv in make_dataset
+
+[33mcommit da8e8a467e2f6eaecde2c0ef69a9840fbd23dadd[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Mon Aug 21 14:57:15 2023 +0200
+
+    delete joblib
+
+[33mcommit cf833e8e5c89ed3d7f2b748022238101388555e1[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Mon Aug 21 14:55:43 2023 +0200
+
+    add .joblib to gitignore
+
+[33mcommit b37c6cc1249df395e770f773d5c5b74cb9d185d4[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Mon Aug 21 09:50:06 2023 +0200
+
+    modif of train_model
+
+[33mcommit 1b72094740f546aef1827251256fd2f636a7a825[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Mon Aug 21 09:49:31 2023 +0200
+
+    modif of predict_model
+
+[33mcommit 1b86827c6bf77939c5b8c86b1a997825cc0cc465[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Mon Aug 21 09:48:54 2023 +0200
+
+    Creating directly test and train sets in make_dataset
+
+[33mcommit dd4d397557e762a5a49e3afd53fee5efd0385068[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Mon Aug 21 09:47:23 2023 +0200
+
+    Modification notebook
+
+[33mcommit 9ed22ad7136975cc6c03f5fdbf6cf682f702f865[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Wed Aug 16 14:32:00 2023 +0200
+
+    adding new virtual env
+
+[33mcommit 0634a9a0c6e61633d3eaed3dcafcb673d8b76375[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Wed Aug 16 14:31:04 2023 +0200
+
+    modification of train_model
+
+[33mcommit db411c466ca5d23715643af44888510ad61ab452[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Wed Aug 16 14:28:58 2023 +0200
+
+    modification of the preprocessing steps
+
+[33mcommit dcc4caf315e9ad6c8331e426bd35d16eb67b465c[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Wed Aug 16 14:28:11 2023 +0200
+
+    adding packages to requirements
+
+[33mcommit c497a17200322b8640a6102c788026f4b99e5f15[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Wed Aug 16 14:27:03 2023 +0200
+
+    notebook modified
+
+[33mcommit a7e716f9ef6cdc6215782efb848375fdd079feab[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Wed Aug 9 10:15:43 2023 +0200
+
+    add model joblib
+
+[33mcommit 32caa0ddce696c30df35469edad21e6ea3439e21[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Mon Jul 24 18:04:28 2023 +0200
+
+    update on notebook
+
+[33mcommit 45d9418d66293c871051510323f643d5b41bbb93[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Mon Jul 24 15:09:35 2023 +0200
+
+    Modify gitignore
+
+[33mcommit 31dbab290a722035a8c54d9066787d87849a95cc[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Mon Jul 24 15:01:40 2023 +0200
+
+    restore files and preprocess data on jupyter notebook
+
+[33mcommit c2527c5f62553cdff4da2d3f0a3ddb66326d0b36[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Mon Jul 24 14:54:23 2023 +0200
+
+    check LICENSE modfication
+
+[33mcommit fffeb790226a34431c8b0c86d40ff2700644a7fc[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Wed Jul 19 10:36:13 2023 +0200
+
+    data exploration on notebook
+
+[33mcommit a991606ec0143f93ef2a86d290c3ac2c520092a9[m
+Author: root <root@LAPTOP-OLVDLI4G>
+Date:   Tue Jul 18 18:24:31 2023 +0200
+
+    first data exploration
+
+[33mcommit 0febe46f54124966ae4447b4aab06ad9df272349[m
+Author: LouiseDurandJanin <louisedurandjanin@gmail.com>
+Date:   Mon Jul 17 10:41:31 2023 +0200
+
+    change file and directory names
+
+[33mcommit 8f48aa6a58657b290136cb16b1919a3e6e5eab01[m
+Author: lokilone <albanthuet@gmail.com>
+Date:   Mon Jul 10 10:55:32 2023 +0200
+
+    makedirs instead of mkdir
+
+[33mcommit 9958f2c26025cc8b317467b0327a0ccdd1b23734[m
+Author: Alban Thuet <68854139+lokilone@users.noreply.github.com>
+Date:   Mon Jul 10 09:36:39 2023 +0200
+
+    Initial commit
